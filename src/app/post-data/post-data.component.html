@@ -67,7 +67,7 @@
             </div>
             <div class="title">
               <strong>{{ comment.author }}</strong
-              ><span class="date">{{ comment.date }}</span>
+              ><span class="date">{{ comment.date | date: "mediumDate" }}</span>
             </div>
           </div>
         </div>
