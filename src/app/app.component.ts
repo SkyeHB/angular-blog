@@ -5,10 +5,10 @@
 // manually or electronically from any other source (including web sites)  //
 // or distributed to other students                                        //
 //                                                                         //
-//                        Name: Skye Bragg                                 //
-//                          ID: 107842171                                  //
-//                        Date: 09/12/2020                                 //
-//                        Link: https://blog-web-api-sbragg.herokuapp.com/ //
+//                      Name: Skye Bragg                                   //
+//                        ID: 107842171                                    //
+//                      Date: 09/12/2020                                   //
+//                      Link: https://angular-blog-sbragg.netlify.app/home //
 /////////////////////////////////////////////////////////////////////////////
 
 import { Component } from '@angular/core';
